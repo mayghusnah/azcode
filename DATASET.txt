@@ -1,0 +1,9 @@
+Multi-class weather dataset(MWD) for image classification is a valuable dataset used in the research paper entitled “Multi-class weather recognition from the still image using heterogeneous ensemble method”.
+
+Class	# of Images
+Sunrise	   357
+Shine	   253
+Rain	   215
+Cloudy	   300
+
+DATA LINK: http://dx.doi.org/10.17632/4drtyfjtfy.1
